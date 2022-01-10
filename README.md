@@ -1,33 +1,27 @@
 # Natour
+
 Advanced CSS and Sass course project
-# Express POST Method: The Order Form
 
-## 🦊 Front-End
+## 🦊 Landing Page
 
-### 👵 Validation Check
+Sass, BEM, complexed animation, fully responsive and cross browser design with automated image optimization according to screen size.
 
-#### 👶 Out Of Stock
+#### 👶 Modern Design
 
-![Alt text](/assets/out-of-stock.png?raw=true "Out Of Stock")
+![Alt text](/assets/1.png?raw=true "Out Of Stock")
 
-#### 👶 Repeated Customer
+#### 👶 Thoughtful animation
 
-![Alt text](/assets/repeated-customer.png?raw=true "repeated customer")
+![Alt text](/assets/2.png?raw=true "repeated customer")
 
-#### 👶 Missing Info
+#### 👶 Customizing Icons
 
-![Alt text](/assets/missing-info.png?raw=true "missing info")
+![Alt text](/assets/3.png?raw=true "missing info")
 
-#### 👶 Outside of Canada
+#### 👶 Extensive using of sudo selectors
 
-![Alt text](/assets/outside-of-canada.png?raw=true "outside of canada")
+![Alt text](/assets/4.png?raw=true "outside of canada")
 
-#### 🎩 Participated Successfully
+#### 🎩 Customized form
 
-![Alt text](/assets/success.png?raw=true "Participate Successfully")
-
-## 🦊 Back-End
-
-### 👵 Validation Check
-
-#### 👶 Out Of Stock
+![Alt text](/assets/5.png?raw=true "Participate Successfully")
