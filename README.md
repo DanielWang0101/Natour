@@ -5,6 +5,7 @@ Advanced CSS and Sass course project
 ## 🦊 Landing Page
 
 Sass, BEM, complexed animation, fully responsive and cross browser design with automated image optimization according to screen size.
+Check out for live: https://jovial-wilson-3ddbcd.netlify.app/
 
 #### 👶 Modern Design
 
